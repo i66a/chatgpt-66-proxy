@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://www.i66a.com/avatar.jpg',
+      avatar: 'https://www.bbcdn.cc/avatar.jpg',
       name:  t('mjset.sysname'),//'AI绘图',
-      description: 'Star on <a href="javascript:void(0);" class="text-blue-500" target="_blank" >LINJUNJIE</a>',
+      description: 'Star on <a href="https://www.baidu.com" class="text-blue-500" target="_blank" >LinJunJie</a>',
     },
   }
 }

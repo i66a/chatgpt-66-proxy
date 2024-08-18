@@ -99,7 +99,7 @@ export default {
     server:'服务端'
     ,about:'关于'
     ,model:'模型'
-    ,sysname:'AI绘图'
+    ,sysname:'LIN-GPT'
   }
 
   ,mjtab:{
@@ -267,7 +267,7 @@ export default {
 
     ,findVersion:'发现更新版本'
     ,yesLastVersion:'已是最新版本'
-    ,infoStar:'此项目开源于 <a  class="text-blue-600 dark:text-blue-500" href="javascript:void(0);" target="_blank"> GitHub </a>，免费且基于 MIT 协议！ </p><p>如果你觉得此项目对你有帮助，请在 GitHub 帮我点个 Star，谢谢！'
+    ,infoStar:'此项目开源于 <a  class="text-blue-600 dark:text-blue-500" href="https://www.baidu.com" target="_blank"> GitHub </a>，基于 MIT 协议！ </p><p>如果你觉得此项目对你有帮助，请在 GitHub 帮我点个 Star，谢谢！'
     ,setBtSaveChat:'仅保存会话'
     ,setBtSaveSys: '保存至系统'
 

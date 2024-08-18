@@ -1,7 +1,7 @@
 version: '3'
 services:
   gptweb:
-    image: ydlhero/chatgpt-web-midjourney-proxy
+    image: liuliukeji/chatgpt-proxy-20240817
     ports:
       - 6055:3002
     environment:
