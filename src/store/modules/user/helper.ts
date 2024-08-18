@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://www.bbcdn.cc/avatar.jpg',
       name:  t('mjset.sysname'),//'AI绘图',
-      description: 'Star on <a href="https://www.baidu.com" class="text-blue-500" target="_blank" >LinJunJie</a>',
+      description: 'Star on <a href="mailto:i66a@qq.com" class="text-blue-500" target="_blank" >LinJunJie</a>',
     },
   }
 }

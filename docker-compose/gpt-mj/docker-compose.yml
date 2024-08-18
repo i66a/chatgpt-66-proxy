@@ -1,7 +1,7 @@
 version: '3'
 services:
   gptweb:
-    image: liuliukeji/chatgpt-proxy-20240817
+    image: liuliukeji/chatgpt-proxy-20240818
     ports:
       - 6055:3002
     environment:
